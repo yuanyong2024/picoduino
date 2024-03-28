@@ -1,5 +1,4 @@
-
-![4](https://github.com/yuanyong2024/picoduino/assets/163154773/9882b214-06f4-4f1f-adf6-7c7f30291893)
+![4](https://github.com/yuanyong2024/picoduino/assets/163154773/f443fb34-c6ab-4f50-a258-28a81ed303fb)
 # Introduction
 This is a Raspberry Pi Pico W hardware in arduino form factor.And it's name is picoduino
 
@@ -34,9 +33,10 @@ For every board that you purchased, it's preflashed with a fw that can easily co
 5. Once success, it will keep the green led on and you can copy the ip address to browser and then hit enter.
 6. A webpage for controlling the green led is alive and you can control the led by click the webpage buttons.
 
-![set_1](https://github.com/yuanyong2024/picoduino/assets/163154773/083dd496-4eb4-427f-a255-3892419c9224)
+![setup_1](https://github.com/yuanyong2024/picoduino/assets/163154773/be988514-2f7a-4296-be63-00dcd634ba4b)
 
-![set_2](https://github.com/yuanyong2024/picoduino/assets/163154773/4faefabd-b59b-4eaf-92ac-1dd3d883f477)
+![setup_2](https://github.com/yuanyong2024/picoduino/assets/163154773/806a8995-01f7-4954-a563-5d6b92b7542d)
+
 
 
 
