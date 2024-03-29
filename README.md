@@ -20,9 +20,9 @@ This board is equipped with a module that have the same chipsets like Pico W fro
 2. Still need more time and energy to tuning the antenna
 3. No shield cover for the module on this version yet.
    
-# how to get one?
+# considering support me?
 Building the module and the picoduino definitley take time and energy.And also it's cost a lot. The module itself is a six layer board and I'm using the expensive Infineon chip. 
-So I would appreciate anyone who can support me by purchase it from [this link](https://www.elecrow.com/customer/account/login/referer/aHR0cHM6Ly93d3cuZWxlY3Jvdy5jb20v/)
+So I would appreciate anyone who can support me by purchase it from [this link](https://www.elecrow.com/picoduino.html)
 
 # setup
 For every board that you purchased, it's preflashed with a fw that can easily connect to local network as long as the wifi is available.
